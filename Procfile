@@ -1,1 +1,2 @@
-web: sh setup.sh && streamlit run stocks.py
+# Procfile
+web: sh setup.sh && streamlit run app.py
